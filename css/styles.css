@@ -56,7 +56,7 @@ img {
 .header {
     display: flex;
     align-items: center;
-    padding: 32px 0;
+    padding: 24px 0;
     border-bottom: 1px solid #ECECEC;
     
 }
@@ -64,8 +64,6 @@ img {
 .header-container {
     display: flex;
     align-items: center;
-    margin: auto;
-    padding: auto;
 }
 
 /* Логотип */
